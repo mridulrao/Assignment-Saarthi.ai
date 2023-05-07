@@ -1,0 +1,2 @@
+Pass the test.csv file while running the evaluate.py file in terminal. Eg - python evaluate.py test_data.csv
+Output - F1 Score on the test dataset
